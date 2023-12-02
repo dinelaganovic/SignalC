@@ -3,7 +3,7 @@
   <p>An application for public chats, built in React Native.</p>
 
   <div class="w3-panel w3-card">
-    <img height="100" width="200"  src="Images_App/Login.png" alt="image">
+    <img height="200" width="200"  src="Images_App/Login.png" alt="image">
   </div>
   <div class="w3-panel w3-card-2">
    <img src="Images_App/Register.png" alt="image">
