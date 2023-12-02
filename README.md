@@ -1,2 +1,2 @@
 # SignalC
-chat app
+An application for public chats, built in React Native.
