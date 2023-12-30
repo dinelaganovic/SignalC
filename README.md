@@ -7,3 +7,4 @@
    <img  height="400" width="300" src="Images_App/ChatAddImage.png" alt="image">
    <img  height="400" width="300" src="Images_App/ChatMessages.png" alt="image">
 
+</div>
